@@ -11,11 +11,20 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=urbanhunter107&show_icons=true&theme=dark&hide_border=true)
+## 📊 GitHub Activity
 
-![](https://nirzak-streak-stats.vercel.app/?user=urbanhunter107&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=urbanhunter107&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=urbanhunter107&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=urbanhunter107&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=urbanhunter107&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 
