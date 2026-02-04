@@ -11,8 +11,6 @@
 
 # 📊 GitHub Stats
 
-## 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=urbanhunter107&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 </p>
