@@ -8,13 +8,15 @@
 # 💻 Techs i like:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=URBANHUNTER107&theme=dark&hide_border=true&cache_seconds=1800)
+# 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=URBANHUNTER107&theme=dark&hide_border=true&cache_seconds=1800)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=urbanhunter107&show_icons=true&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=URBANHUNTER107&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
+![](https://nirzak-streak-stats.vercel.app/?user=urbanhunter107&theme=dark&hide_border=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=urbanhunter107&layout=compact&theme=dark&hide_border=true)
+
 
 
 
